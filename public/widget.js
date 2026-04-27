@@ -43,7 +43,7 @@
 
     target.innerHTML = `
       <div class="sa-widget">
-        <h3>When my secretary is free to take your call</h3>
+        <h3>When our practice manager is free to take your call</h3>
         <div class="sa-sub">Available times shown in ${tz}, working hours ${window}.</div>
         <ul class="sa-days">${days || '<li class="sa-none">No upcoming working days.</li>'}</ul>
         <div class="sa-foot">Updated automatically. Times reflect when she is not in another call or meeting.</div>
